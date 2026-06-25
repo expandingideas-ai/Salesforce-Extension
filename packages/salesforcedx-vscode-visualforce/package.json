@@ -33,7 +33,7 @@
     "effect": "^3.21.2",
     "vscode-css-languageservice": "^6.3.7",
     "vscode-languageclient": "^9.0.1",
-    "vscode-languageserver-protocol": "^3.17.5",
+    "vscode-languageserver-protocol": "^3.18.1",
     "vscode-uri": "^3.1.0"
   },
   "devDependencies": {
