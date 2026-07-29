@@ -34,7 +34,7 @@
     "@effect/eslint-plugin": "0.3.2",
     "@effect/language-service": "^0.86.2",
     "@eslint/json": "^0.13.2",
-    "@html-eslint/eslint-plugin": "0.59.0",
+    "@html-eslint/eslint-plugin": "0.64.0",
     "@html-eslint/parser": "0.59.0",
     "@octokit/core": "^5",
     "@octokit/webhooks-types": "7.6.1",
